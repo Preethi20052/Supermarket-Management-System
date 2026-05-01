@@ -83,7 +83,7 @@ Database Setup (MySQL):
 - Run SQL scripts if available  
 
 ---
-
+```
 ## 📂 Project Structure
 
 Supermarket-Management-System/
@@ -103,6 +103,8 @@ Supermarket-Management-System/
 └── README.md  
 
 ---
+
+```
 
 ## 🎯 Use Cases
 
