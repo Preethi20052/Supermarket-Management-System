@@ -102,9 +102,9 @@ Supermarket-Management-System/
 │
 └── README.md  
 
+'''
 ---
 
-```
 
 ## 🎯 Use Cases
 
